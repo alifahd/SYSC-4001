@@ -1,0 +1,9 @@
+Discussion of test results: 5, A, 9, M, W, 6, Z
+Output is: A M W Z 5 6 9
+
+Discussion of test results: 1, 2, 3, C, D, E, F
+Output is: C D E F 1 2 3
+
+Discussion:
+-Values are computed properly, output is correct
+-You can see swaps along the way
